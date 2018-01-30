@@ -10,19 +10,13 @@ In this workshop you will learn how to use the  CPLEX Python API to develop Deci
 
 
 ## About this repository
-This repository contains a folder for each lab. Please download the entire repository and unzip on your local machine.
+This repository contains a folder for each lab. Please download the entire repository (as ZIP) and unzip it on your local machine.
 
 ## Prerequisites
-1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with DODS. 
+1. Basic knowledge of analytics and Operation Research. These labs do not teach you how to build optimization models. The purpose of this workshop is to provide hands-on experience on the different ways to utilize Prescriptive analytics in DSX Local.
 2. To run this workshop you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in sample projects will work in DSX Local only**
-3. Download and unzip this [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository only, not files in subfolders. 
 
-### Setting up lab projects in DSX Local
-1. Rename **DSX_Local_Workshop.zip** located in **DSX_Local_Projects** folder of the unzipped repository to a unique name, for example, add your initials.    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*. 
-2. Log in to DSX Local.
-3. Select "Create New Project" and select "From File".
-4. Browse to the .zip file and click **Create**.
-![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true).
+### Follow the instructions contained in each lab folder (MS Word documents).
 
 
 

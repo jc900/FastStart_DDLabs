@@ -10,7 +10,7 @@ In this workshop you will learn how to use the  CPLEX Python API to develop Deci
 
 
 ## About this repository
-This repository contains a folder for each lab. Please download the entire repository (as ZIP) and unzip it on your local machine.
+This repository contains a folder for each lab. **Please download the entire repository (as ZIP) and unzip it on your local machine.**
 
 ## Prerequisites
 1. Basic knowledge of analytics and Operation Research. These labs do not teach you how to build optimization models. The purpose of this workshop is to provide hands-on experience on the different ways to utilize Prescriptive analytics in DSX Local.

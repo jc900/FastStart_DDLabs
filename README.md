@@ -1,6 +1,8 @@
 # Decision Optimization for DSX Local Workshop (DODS)
 Lab instructions and assets for the 2018 Fast Start Decision Optimization Lab.
->Please use the same DSX Local cluster assigned to you for the DSX Local labs
+
+>Please use the same DSX Local cluster assigned to you for the DSX Local labs.
+
 In this workshop you will learn how to use the  CPLEX Python API to develop Decision Optimization notebooks, load data and create scenarios utilizing the new Decision Optimization for Data Science Add-on. There are 3 labs:
 1. Utilizing the DOCplex Python API from Notebooks
 2. Creating an Optimization Model & Planning scenarios with DODS

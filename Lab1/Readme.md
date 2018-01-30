@@ -1,4 +1,4 @@
-# Lab 1 - House building optimization.
+# Lab 1 - House building optimization using CPLEX Python API on Jupyter Notebooks.
 
 >Optimizing the planning and scheduling of resources required to build a house.
 

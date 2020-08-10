@@ -1,8 +1,8 @@
-# Lab 2 - House building optimization using Decision Optimization for Data Science (DODS).
+# Lab 2 - House building optimization using Decision Optimization in Watson Studio.
 
 >Optimizing the planning and scheduling of resources required to build a house.
 
-In this lab, you will use the new D.O. add-on for DSX Local to train and execute the optimization model.
+In this lab, you will use the new D.O. add-on for Watson Studio to train and execute the optimization model.
 Business Problem & objectives									
 									
 Define the start time & end time of house construction activities, while maximizing the skill levels of workers assigned to tasks.									
